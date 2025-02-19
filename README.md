@@ -1,5 +1,4 @@
 # Object Detection Tensorflow API
-# **Object Detection Using TensorFlow Object Detection API**
 
 ## **Project Overview**
 

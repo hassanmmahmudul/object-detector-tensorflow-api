@@ -1,0 +1,15 @@
+item {
+	name: "piscina"
+	id: 1
+	display_name: "piscina"
+}
+item {
+	name: "rotonda"
+	id: 2
+	display_name: "rotonda"
+}
+item {
+	name: "parking"
+	id: 3
+	display_name: "parking"
+}
